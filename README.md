@@ -16,12 +16,12 @@
 - css: src -> module -> b-name をコピペ。
 - 画像のみを並べたケース。
 
-# 特徴
+## 特徴
 
 - 中央合わせは以下を使用してます。
 - justify-content: center;
 
-# 参考にしたサイト
+## 参考にしたサイト
 
 - justify-content: space-between の最後の行を左寄せにしたい時の対処方法
 - https://webtan.tech/space-between-lastline/
