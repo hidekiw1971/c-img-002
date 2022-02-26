@@ -21,6 +21,13 @@
 - 中央合わせは以下を使用してます。
 - justify-content: center;
 
+# 参考にしたサイト
+
+- justify-content: space-between の最後の行を左寄せにしたい時の対処方法
+- https://webtan.tech/space-between-lastline/
+- CSS :before や:after などの擬似クラスのリセット（打ち消し）方法
+- https://complesso.jp/1780/
+
 ## 更新履歴
 
 - 2022/2/26 初版
