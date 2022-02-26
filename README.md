@@ -1,19 +1,25 @@
 # module（共通部品）
 
-## 初版（img: pc:4カラム、sm、tb:2カラム表示）
+## 初版（img: pc:4 カラム、sm、tb:2 カラム表示）
 
-- 画像表示形式（img: pc:4カラム、sm、tb:2カラム表示）
+- 画像表示形式（img: pc:4 カラム、sm、tb:2 カラム表示）
 
 ## イメージ画像
 
 ## portfolio url:
 
-- https://css-md-000x.wtb.cfbx.jp/
+- https://css-md-0010.wtb.cfbx.jp/
 
 ## module(共通部品)使い方
 
 - 「copy start」から「copy end」をコピペ。
-- css: src -> module -> xxx をコピペ。
+- css: src -> module -> b-name をコピペ。
+- 画像のみを並べたケース。
+
+# 特徴
+
+- 中央合わせは以下を使用してます。
+- justify-content: center;
 
 ## 更新履歴
 

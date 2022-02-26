@@ -6,7 +6,7 @@
 .b-name {
   display: flex;
   flex-wrap: wrap;
-
+  justify-content: center;
   @include mq(md) {
   }
 
